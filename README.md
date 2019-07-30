@@ -15,7 +15,8 @@ Depending on whether ONCE or ONCE+ are called, the code will output the non-over
 Another version for ONCE(+) optimized for Spark and Sparkstreaming can be found in https://github.com/lihuixidian/ONCESpark, which shall be released sooner.
 
 ## Citaion:
-For detailed information for the algorithms, please check and cite the following pape
+For detailed information for the algorithms, please check and cite the following paper
+
 '''
 @article{LI2019,
 title = "Counting the Frequency of Time-constrained Serial Episodes in a Streaming Sequence",
