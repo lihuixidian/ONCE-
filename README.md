@@ -1,5 +1,5 @@
 # ONCE(+)
-This project provide a solution to count frenquency of episodes with time constraint.
+We provide a one-pass solution to count distinct/non-overlapped frenquency of time-constrained episodes from a long sequence.
 
 ## Input:
 a long sequence in the form of: [(s1,time1),(s2,time2),...]
